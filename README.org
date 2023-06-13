@@ -4,7 +4,7 @@ Common Lisp implementation of the Stripe API.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/K1D77A/stripe-against-the-modern-world.git   |
-| commit  | {"messa  |
+| commit  | e970eee  |
 | systems | stripe-against-the-modern-world |
 |---------+-------------------------------------------|
 
